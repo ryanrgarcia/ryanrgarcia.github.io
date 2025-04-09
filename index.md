@@ -22,18 +22,18 @@ And here is also a picture of mine!
 4. Goodfellas
 5. Shameless
 
-Favorite Quote:
+**Favorite Quote:**
 > There's a point at 7,000 RPM... where everything fades. The machine becomes weightless. Just disappears. And all that's left is a body moving through space and time.
 \- Carroll Shelby
 
-My first ever line of code:
+**My first ever line of code:**
 `print (Hello, World!)`
 
-Here is my current todo list:
+**Here is my current todo list:**
 - [ ] Submit Lab 1
 - [ ] Go to the gym
 - [x] Do laundry
 - [x] Meal prep for the week
 
 
-Back to top [Link Text](#about-ryan)
+[Back to top](#about-ryan)
